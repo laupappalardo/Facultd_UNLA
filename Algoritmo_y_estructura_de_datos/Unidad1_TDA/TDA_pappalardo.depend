@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1744399802 source:/home/sinarame-cop/laura/Unidad1_TDA-20250408T190726Z-001/Unidad1_TDA/empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"fecha.h"
+	"empleado.h"
+	"dispositivo.h"
+
+1744140103 /home/sinarame-cop/laura/Unidad1_TDA-20250408T190726Z-001/Unidad1_TDA/persona.h
+
+1712780464 /home/sinarame-cop/laura/Unidad1_TDA-20250408T190726Z-001/Unidad1_TDA/fecha.h
+
+1744140103 /home/sinarame-cop/laura/Unidad1_TDA-20250408T190726Z-001/Unidad1_TDA/empleado.h
+
+1712781313 source:/home/sinarame-cop/laura/Unidad1_TDA-20250408T190726Z-001/Unidad1_TDA/fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1744400931 source:/home/sinarame-cop/laura/Unidad1_TDA-20250408T190726Z-001/Unidad1_TDA/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"fecha.h"
+	"empleado.h"
+	"dispositivo.h"
+
+1744399831 source:/home/sinarame-cop/laura/Unidad1_TDA-20250408T190726Z-001/Unidad1_TDA/persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"fecha.h"
+	"dispositivo.h"
+
+1744140687 source:/home/sinarame-cop/laura/Unidad1_TDA-20250408T190726Z-001/Unidad1_TDA/dispositivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dispositivo.h"
+
+1712775335 /home/sinarame-cop/laura/Unidad1_TDA-20250408T190726Z-001/Unidad1_TDA/dispositivo.h
+
+1750854293 source:c:\users\lpapp\onedrive\documentos\unla\algoritmo y estructura de datos\unidad1_tda\dispositivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dispositivo.h"
+
+1750854293 c:\users\lpapp\onedrive\documentos\unla\algoritmo y estructura de datos\unidad1_tda\dispositivo.h
+
+1750854293 source:c:\users\lpapp\onedrive\documentos\unla\algoritmo y estructura de datos\unidad1_tda\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1750854293 c:\users\lpapp\onedrive\documentos\unla\algoritmo y estructura de datos\unidad1_tda\fecha.h
+
+1786197609 source:c:\users\lpapp\onedrive\documentos\unla\algoritmo y estructura de datos\unidad1_tda\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"fecha.h"
+	"empleado.h"
+	"dispositivo.h"
+
+1786197831 c:\users\lpapp\onedrive\documentos\unla\algoritmo y estructura de datos\unidad1_tda\persona.h
+
+1786197913 c:\users\lpapp\onedrive\documentos\unla\algoritmo y estructura de datos\unidad1_tda\empleado.h
+
+1786197676 source:c:\users\lpapp\onedrive\documentos\unla\algoritmo y estructura de datos\unidad1_tda\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"fecha.h"
+	"dispositivo.h"
+

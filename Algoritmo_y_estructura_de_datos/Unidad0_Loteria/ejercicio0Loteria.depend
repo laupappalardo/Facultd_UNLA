@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1711996846 source:c:\users\laura\documents\unla\programacion de computadoras\finales\final 7\ejercicio0loteria\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+
+1712346007 
+
+1712089422 c:\users\laura\documents\unla\programacion de computadoras\finales\final 7\ejercicio0loteria\carton.h
+
+1712089221 source:c:\users\laura\documents\unla\programacion de computadoras\finales\final 7\ejercicio0loteria\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+
+1712089179 c:\users\laura\documents\unla\programacion de computadoras\finales\final 7\ejercicio0loteria\jugador.h
+
+1712088346 source:c:\users\laura\documents\unla\programacion de computadoras\finales\final 7\ejercicio0loteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+	"jugador.h"
+	"sorteo.h"
+
+1712088674 c:\users\laura\documents\unla\programacion de computadoras\finales\final 7\ejercicio0loteria\sorteo.h
+
+1711996196 source:c:\users\laura\documents\unla\programacion de computadoras\finales\final 7\ejercicio0loteria\sorteo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"sorteo.h"
+
+1712267402 source:c:\users\laura\documents\unla\algoritmo y estructura de datos\ejercicio0loteria\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+
+1712269523 c:\users\laura\documents\unla\algoritmo y estructura de datos\ejercicio0loteria\jugador.h
+
+1712514012 c:\users\laura\documents\unla\algoritmo y estructura de datos\ejercicio0loteria\carton.h
+
+1712511785 source:c:\users\laura\documents\unla\algoritmo y estructura de datos\ejercicio0loteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+	"jugador.h"
+	"sorteo.h"
+
+1712332879 c:\users\laura\documents\unla\algoritmo y estructura de datos\ejercicio0loteria\sorteo.h
+
+1712514068 source:c:\users\laura\documents\unla\algoritmo y estructura de datos\ejercicio0loteria\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+
+1712346007 source:c:\users\laura\documents\unla\algoritmo y estructura de datos\ejercicio0loteria\sorteo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"sorteo.h"
+	"carton.h"
+
+1743691307 source:/home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+	"jugador.h"
+	"sorteo.h"
+
+1743707005 /home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria/carton.h
+
+1743691217 /home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria/jugador.h
+
+1743681507 /home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria/sorteo.h
+
+1743691277 source:/home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria/sorteo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"sorteo.h"
+	"carton.h"
+
+1743691207 source:/home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria/carton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+	"jugador.h"
+	"sorteo.h"
+
+1743691223 source:/home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria/jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carton.h"
+	"jugador.h"
+	"sorteo.h"
+
+1743851784 source:/home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria_fecha/carton.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+	"jugador.h"
+	"sorteo.h"
+	"fecha.h"
+
+1743852615 /home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria_fecha/carton.h
+
+1743852575 /home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria_fecha/jugador.h
+
+1743681507 /home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria_fecha/sorteo.h
+
+1743853107 /home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria_fecha/fecha.h
+
+1743852575 source:/home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria_fecha/jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carton.h"
+	"jugador.h"
+	"sorteo.h"
+	"fecha.h"
+
+1743853181 source:/home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria_fecha/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+	"jugador.h"
+	"sorteo.h"
+	"fecha.h"
+
+1743691277 source:/home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria_fecha/sorteo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"sorteo.h"
+	"carton.h"
+
+1743853107 source:/home/sinarame-cop/laura/ejercicio0Loteria-20250403T113018Z-001/ejercicio0Loteria_fecha/fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"carton.h"
+	"jugador.h"
+	"sorteo.h"
+	"fecha.h"
+
