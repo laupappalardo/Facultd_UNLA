@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1780346657 source:/home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final1/final1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"persona.h"
+	"cola.h"
+	"estadio.h"
+
+1780336682 source:/home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final1/final1/nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1780316765 /home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final1/final1/nodo.h
+
+1780346658 source:/home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final1/final1/cola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+	"nodo.h"
+	"persona.h"
+
+1780346658 /home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final1/final1/cola.h
+	"nodo.h"
+
+1780336804 /home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final1/final1/persona.h
+
+1780346671 source:/home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final1/final1/estadio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"persona.h"
+	"cola.h"
+	"estadio.h"
+
+1780346657 /home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final1/final1/estadio.h
+	"persona.h"
+	"cola.h"
+
+1780336930 source:/home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final1/final1/persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"persona.h"
+
