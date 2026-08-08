@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1780518086 source:/home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final2/nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1780518076 /home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final2/nodo.h
+
+1780933554 source:/home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final2/pila.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"pila.h"
+
+1780933559 /home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final2/pila.h
+
+1780933416 source:/home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final2/persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"pila.h"
+	"persona.h"
+
+1780933416 /home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final2/persona.h
+
+1780945588 source:/home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"pila.h"
+	"persona.h"
+	"estadio.h"
+
+1780949721 /home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final2/estadio.h
+	"persona.h"
+
+1780949744 source:/home/sinarame-cop/laura/Algoritmo y Estructura de datos-20260530T144309Z-3-001/Algoritmo y Estructura de datos/Para Final/Final2/estadio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"pila.h"
+	"estadio.h"
+	"persona.h"
+
+1786213661 source:c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\final\final2\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1786213661 c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\final\final2\nodo.h
+
+1786213661 source:c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\final\final2\estadio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"pila.h"
+	"estadio.h"
+	"persona.h"
+
+1786214331 c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\final\final2\pila.h
+
+1786213661 c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\final\final2\estadio.h
+	"persona.h"
+
+1786213661 c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\final\final2\persona.h
+
+1786213661 source:c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\final\final2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"pila.h"
+	"persona.h"
+	"estadio.h"
+
+1786213661 source:c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\final\final2\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"pila.h"
+	"persona.h"
+
+1786214331 source:c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\final\final2\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"pila.h"
+
