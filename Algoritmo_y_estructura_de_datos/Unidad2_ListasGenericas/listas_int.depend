@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1713893928 source:c:\users\laura\documents\unla\algoritmo y estructura de datos\listas_int\listas_int\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1714336746 
+
+1713894635 c:\users\laura\documents\unla\algoritmo y estructura de datos\listas_int\listas_int\lista.h
+	"nodo.h"
+
+1713894635 c:\users\laura\documents\unla\algoritmo y estructura de datos\listas_int\listas_int\nodo.h
+
+1713893928 source:c:\users\laura\documents\unla\algoritmo y estructura de datos\listas_int\listas_int\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1714757464 source:c:\users\laura\documents\unla\algoritmo y estructura de datos\listas_pappalardo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"nodo.h"
+
+1714756081 c:\users\laura\documents\unla\algoritmo y estructura de datos\listas_pappalardo\lista.h
+	"nodo.h"
+
+1714756081 c:\users\laura\documents\unla\algoritmo y estructura de datos\listas_pappalardo\nodo.h
+
+1714756081 source:c:\users\laura\documents\unla\algoritmo y estructura de datos\listas_pappalardo\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1714758599 source:c:\users\laura\documents\unla\algoritmo y estructura de datos\listas_pappalardo\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"nodo.h"
+
+1714331773 source:/home/sinarame-cop/Escritorio/listas_pappalardo/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"nodo.h"
+
+1714331562 /home/sinarame-cop/Escritorio/listas_pappalardo/lista.h
+	"nodo.h"
+
+1714330003 /home/sinarame-cop/Escritorio/listas_pappalardo/nodo.h
+
+1714331287 source:/home/sinarame-cop/Escritorio/listas_pappalardo/nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1714336746 source:/home/sinarame-cop/Escritorio/listas_pappalardo/lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"nodo.h"
+
+1745509305 source:/home/sinarame-cop/laura/listas_pappalardo_ok_con_TDA-20250424T112446Z-001/listas_pappalardo_ok_con_TDA/lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"nodo.h"
+
+1745507940 /home/sinarame-cop/laura/listas_pappalardo_ok_con_TDA-20250424T112446Z-001/listas_pappalardo_ok_con_TDA/lista.h
+	"nodo.h"
+
+1745506937 /home/sinarame-cop/laura/listas_pappalardo_ok_con_TDA-20250424T112446Z-001/listas_pappalardo_ok_con_TDA/nodo.h
+
+1745508283 source:/home/sinarame-cop/laura/listas_pappalardo_ok_con_TDA-20250424T112446Z-001/listas_pappalardo_ok_con_TDA/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"nodo.h"
+
+1745519898 source:/home/sinarame-cop/laura/listas_pappalardo_ok_con_TDA-20250424T112446Z-001/listas_pappalardo_ok_con_TDA/nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1745950337 source:/home/sinarame-cop/laura/listas_pappalardo_ok_con_TDA-20250424T112446Z-001/Unidad2_ListasTDA/lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"nodo.h"
+
+1745950337 /home/sinarame-cop/laura/listas_pappalardo_ok_con_TDA-20250424T112446Z-001/Unidad2_ListasTDA/lista.h
+	"nodo.h"
+
+1745950335 /home/sinarame-cop/laura/listas_pappalardo_ok_con_TDA-20250424T112446Z-001/Unidad2_ListasTDA/nodo.h
+
+1745950337 source:/home/sinarame-cop/laura/listas_pappalardo_ok_con_TDA-20250424T112446Z-001/Unidad2_ListasTDA/nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
+1745950337 source:/home/sinarame-cop/laura/listas_pappalardo_ok_con_TDA-20250424T112446Z-001/Unidad2_ListasTDA/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"nodo.h"
+
+1750854293 source:c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\unidad2_listasgenericas\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"nodo.h"
+
+1750854293 c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\unidad2_listasgenericas\lista.h
+	"nodo.h"
+
+1750854293 c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\unidad2_listasgenericas\nodo.h
+
+1750854293 source:c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\unidad2_listasgenericas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"nodo.h"
+
+1750854293 source:c:\users\lpapp\documents\unla\unla-git\algoritmo_y_estructura_de_datos\unidad2_listasgenericas\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"lista.h"
+
